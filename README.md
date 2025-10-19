@@ -133,9 +133,7 @@ Uygulama şimdi `http://localhost:3000` adresinde seni bekliyor!
   <p>Bu proje MIT Lisansı altında dağıtılmaktadır.</p>
   <br>
   <p><güçlü>Ömer Faruk Uysal</güçlü></p>
-  <p>
-    <a href="https://github.com/electrichunter"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=beyaz" alt="GitHub"></a>
-    <a href="[https://www.linkedin.com/in/omerfarukuysal](https://www.linkedin.com/in/omer-farukuysal/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=beyaz" alt="Bağlantılı"></a>
+  
   </p>
   <br>
   <p><küçük>KısaKes.ai © 2025</küçük></p>
