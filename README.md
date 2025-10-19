@@ -1,16 +1,7 @@
 <div align="center">
 
-  <a href="https://github.com/electrichunter/KisaKes.ai">
-    <img src="https://raw.githubusercontent.com/electrichunter/KisaKes.ai/main/assets/kisakes_banner.png" alt="KısaKes.ai Banner">
-  </a>
-
-  <pre>
-   _  __ _  __  ____   ____  ____  ____  ____   __   __   
-  / )(  ( \/  \/ ___) / ___)(_  _)/ ___)(_  _) /. | (  )  
- | |/    /    /\___ \ \___ \  )(  \___ \  )(  (_  _)/ (_/\ 
- |__/\_)__/\_/(____/ (____/ (__) (____/ (__)   (_) \____/
-  </pre>
-
+ 
+ 
   ### Bilgiye Giden Kestirme Yol.
   
   <p><strong>Saatlerce süren içerikleri saniyelere sığdırın. Vaktiniz size kalsın.</strong></p>
